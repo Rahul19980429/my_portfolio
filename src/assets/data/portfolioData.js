@@ -58,7 +58,7 @@ const portfolios = [
    category: "web Site",
    title: "NetFlix Clone WebDesign ",
    technologies: ["Html5", "Js", "Css"],
-   siteUrl: "https://netflix-clone-rouge-psi.vercel.app/",
+   siteUrl: "https://netflix-webclone.vercel.app/",
    desc:"WebSite Design Template Using Html,Css,Js"
  }
 
