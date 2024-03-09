@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import resume from '../../images/rahulsoniCV.jpg'
+import resume from '../../files/RahulSoni_Cv.pdf'
 import pp from "../../images/rahul.png";
 const Header = () => { 
   
